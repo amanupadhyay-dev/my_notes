@@ -6,3 +6,7 @@ This repository contains all my notes, code snippets, practice problems, and con
 ---
 
 ## 📂 Folder Structure
+/my_notes 
+Notes/
+JAVA/
+DSA/
