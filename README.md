@@ -1,2 +1,2 @@
-# my_notes
-All my development notes and learning
+# My Learning Notes 
+Welcome to my notes repository. Here I Store my code, learning concepts, and practice problem.
