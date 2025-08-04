@@ -22,3 +22,15 @@
 
 
 
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
+
+
+
+
