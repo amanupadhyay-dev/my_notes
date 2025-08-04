@@ -1,0 +1,10 @@
+Vercel json config to support React Router in frontend
+
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
